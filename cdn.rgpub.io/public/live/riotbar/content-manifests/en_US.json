@@ -1,0 +1,557 @@
+{
+    "locale": "en_US",
+    "active_section": "RIOT GAMES",
+    "sections": [
+        {
+            "type": "riot-games",
+            "title": "RIOT GAMES",
+            "cards": [
+                {
+                    "type": "promo_card",
+                    "title": "Introducing Riot Mobile, a mobile companion that helps you stay connected with players and find the content and experiences you care about most.",
+                    "link": "https://www.leagueoflegends.com/en-us/news/riot-games/hello-riot-mobile-farewell-league/",
+                    "platform_availability": [],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt8605de60c88fbe33/615b71656d2d465121b1c54b/08262021-Riot_Mobile_Logo-Bar_Promo.jpg?",
+                        "title": "Riot-Mobile-Launch-Image-660x428.jpg",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                },
+                {
+                    "type": "promo_card",
+                    "title": "Learn more about Arcane, a new animated series from the world of League of Legends.",
+                    "link": "https://arcane.com/en-us/",
+                    "platform_availability": [],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltb96335d7632917d9/614cffd18ab9337efb4055f6/Riot_Promo_Card.jpg?",
+                        "title": "arcane_promo_card",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                },
+                {
+                    "type": "game_card",
+                    "title": "Play Now",
+                    "link": "https://na.leagueoflegends.com/en-us/?utm_source=riotbar&utm_medium=card1&utm_campaign=lol&utm_content=lol_key01",
+                    "platform_availability": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt5abbad4f1d1da663/602457cff4a7946af0338221/LOL_Key_Art_2021_318x428_RiotBar.jpg?",
+                        "title": "LOL_Key_Art_2021_318x428_RiotBar_v2.jpg",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                },
+                {
+                    "type": "game_card",
+                    "title": "Play Now",
+                    "link": "https://teamfighttactics.leagueoflegends.com/en-us/?utm_source=riotbar&utm_medium=card3&utm_campaign=tft_set4&utm_content=blue_pengu01",
+                    "platform_availability": [
+                        "Mobile",
+                        "Windows",
+                        "Mac"
+                    ],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltbf885669fd51362b/60f62ead7d36d059ffd3ba17/TFT_MID521_Riot-Bar-Card_v001_TBX.jpg?",
+                        "title": "TFT_MID521_Riot-Bar-Card_v001_TBX.jpg",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                },
+                {
+                    "type": "game_card",
+                    "title": "Play Now",
+                    "link": "https://playvalorant.com/en-us/?utm_source=riotbar&utm_medium=card4&utm_campaign=val&utm_content=val_jett01",
+                    "platform_availability": [
+                        "Windows"
+                    ],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blte94074969e8e82fe/5e618391d5a7d573058228ba/Riot_Nav_Bar_Graphic_318x428.jpg?",
+                        "title": "Riot_Nav_Bar_Graphic_318x428.jpg",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                },
+                {
+                    "type": "game_card",
+                    "title": "Play Now",
+                    "link": "https://riotgames.sng.link/Dcxen/oco5",
+                    "platform_availability": [
+                        "Mobile",
+                        "Windows"
+                    ],
+                    "asset": {
+                        "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltc5c267abf9b7a277/61241c1f4d39656a33b080c6/LoR_BC5A21_5A-RiotBarApplicationSwitcher_318X428.jpg?",
+                        "title": "LoR_BC5A21_5A-RiotBarApplicationSwitcher_318X428.jpg",
+                        "content_type": "image/jpeg"
+                    },
+                    "analytics_id": ""
+                }
+            ]
+        }
+    ],
+    "app_switcher_2": {
+        "cards": [
+            {
+                "title": "Check out how VALORANT’s evolving the game in this new Episode.",
+                "link": "https://playvalorant.com/en-us/news/game-updates/defy-definition-episode-7-act-1/",
+                "platform_availability": [],
+                "asset": {
+                    "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt7ea5564832d87165/64966337b70242984bcab3a8/062723_Ep7_Riot_Bar_Promo_card_660x428.png?",
+                    "title": "062723_Ep7_Riot_Bar_Promo_card_660x428.png",
+                    "content_type": "image/png"
+                },
+                "analytics_id": ""
+            },
+            {
+                "title": "New Legends of Runeterra Expansion - Heart of the Huntress",
+                "link": "https://playruneterra.com/",
+                "platform_availability": [],
+                "asset": {
+                    "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltc9637bfbdae4ff91/649b449305ac38d3b5aebb85/LLoR_7B2023_HotH_RiotBarApplicationSwitcher_660x428.jpg?",
+                    "title": "LLoR_7B2023_HotH_RiotBarApplicationSwitcher_660x428.jpg",
+                    "content_type": "image/jpeg"
+                },
+                "analytics_id": ""
+            }
+        ],
+        "links": [
+            {
+                "title": "GAMES",
+                "products": [
+                    {
+                        "title": "LEAGUE OF LEGENDS",
+                        "link": "https://www.leagueoflegends.com/en-us/",
+                        "description": "Face off in the ultimate 5v5 battle arena",
+                        "frame_color": "#091428",
+                        "mobile_product_card": true,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt69961ce901c892c5/63ead58ad6b15b22437be7e1/LOL_KA23_Product-Card_RBAR_1280x720_FINAL.jpg?",
+                            "title": "LOL_KA23_Product-Card_RBAR_1280x720_FINAL.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt17d9df62ff2abfdb/615a85178f1f7b55821485e4/LOL.svg?",
+                            "title": "LOL.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows"
+                        ]
+                    },
+                    {
+                        "title": "VALORANT",
+                        "link": "https://playvalorant.com/en-us/?utm_source=riotbar&utm_medium=productcard&utm_campaign=val&utm_content=ep7act1",
+                        "description": "Style on your enemies in this 5v5 tactical shooter",
+                        "frame_color": "#FE8155",
+                        "mobile_product_card": true,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt5db9aeb297bda157/6496633fe9365acb3dc34d39/062723_Ep7_Product_Card_1920x1080.png?",
+                            "title": "062723_Ep7_Product_Card_1920x1080.png",
+                            "content_type": "image/png"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt7dde242cdb9e437a/61af0ed4d715b5102311d2ee/Valorant.svg?",
+                            "title": "xp1-val-logo.png",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows"
+                        ]
+                    },
+                    {
+                        "title": "TEAMFIGHT TACTICS",
+                        "link": "https://teamfighttactics.leagueoflegends.com/en-us/",
+                        "description": "A TEAM-BUILDING BATTLE OF WITS",
+                        "frame_color": "#8b79e5",
+                        "mobile_product_card": true,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltfe729ffe29021170/64813b50cc30bbb04ab0456e/TFT_SET923_Riotbar_1920x1080_v004_ASteme.jpg?",
+                            "title": "TFT_SET923_Riotbar_1920x1080_v004_ASteme.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt73ba063c224de13c/620719f19c50e50a64ea776b/TFT_Evergreen_Logo_Bug-Wordmark-Stacked_Final.svg?",
+                            "title": "TFT_Evergreen_Logo_Bug-Wordmark-Stacked_Final.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Mobile"
+                        ]
+                    },
+                    {
+                        "title": "LEGENDS OF RUNETERRA",
+                        "link": "https://playruneterra.com/en-us/",
+                        "description": "Master every moment in this strategy card game",
+                        "frame_color": "#D0823E",
+                        "mobile_product_card": true,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt026d2bccb899c112/649b467a66ab62671ffc77f1/LoR_7B2023_HotH_RiotBarApplicationSwitcher_1920x1080_opt.jpg?",
+                            "title": "LoR_7B2023_HotH_RiotBarApplicationSwitcher_1920x1080_opt.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt1967c1b8539fb74a/615a85219c76234dd174c18d/Runeterra.svg?",
+                            "title": "Runeterra.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Mobile"
+                        ]
+                    },
+                    {
+                        "title": "LOL: WILD RIFT",
+                        "link": "https://wildrift.leagueoflegends.com/en-us/",
+                        "description": "LEAGUE OF LEGENDS, NOW ON MOBILE",
+                        "frame_color": "#a0c1ec",
+                        "mobile_product_card": true,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltd64089e018c89048/615a85a49c76234dd174c199/Wildrift.jpg?",
+                            "title": "Wildrift.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt047f894a4d0e8fed/615a85216d2d465121b1c108/WildRift.svg?",
+                            "title": "WildRift.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Mobile"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "FORGE",
+                "products": [
+                    {
+                        "title": "CONV/RGENCE",
+                        "link": "https://convrgencegame.com/en-us/",
+                        "description": "EXPLORE ZAUN AS EKKO IN THIS ACTION PLATFORMER",
+                        "frame_color": "#ad6e89",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt15a80d65a2698d1f/615a859d8f1f7b55821485ee/convergence.jpg?",
+                            "title": "convergence.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt07a59d6098466b37/615a8d7df2882661476b6adb/convergence-logo.png?",
+                            "title": "convergence-logo.png",
+                            "content_type": "image/png"
+                        },
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "HEXTECH MAYHEM",
+                        "link": "https://hextechmayhem.com/en-us/",
+                        "description": "Riot Forge Presents Hextech Mayhem",
+                        "frame_color": "#ac4c54",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt8589cd81c00f5c6a/6189ee6d666f1777c9bcfa52/JFG_Key_Art_T2AV2.jpg?",
+                            "title": "JFG_Key_Art_T2AV2.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt589f0c88c9f4fe5c/618d9795867d1817d95f3b15/HM.svg?",
+                            "title": "HM.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Mobile",
+                            "Console"
+                        ]
+                    },
+                    {
+                        "title": "THE MAGESEEKER",
+                        "link": "https://www.themageseeker.com/en-us/",
+                        "description": "PLAY AS SYLAS AND LIBERATE DEMACIA FROM TYRANNY IN THIS ACTION RPG",
+                        "frame_color": "#39314C",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt7b361b63541962b6/63e56f590773755832f894cf/MAGESEEKER-PRODUCT-IMAGE-1920x1080.jpg?",
+                            "title": "MAGESEEKER-PRODUCT-IMAGE-1920x1080.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blte903a9feb702cb91/63e56f7dfb32ec1b0e9c93e7/Mageseeker_Logo_TM_Vector_White.png?",
+                            "title": "Mageseeker_Logo_TM_Vector_White.png",
+                            "content_type": "image/png"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Console"
+                        ]
+                    },
+                    {
+                        "title": "RUINED KING",
+                        "link": "https://ruinedking.com/en-us/",
+                        "description": "RISE AGAINST RUIN IN THIS TURN BASED RPG",
+                        "frame_color": "#74c1af",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt160d084323f31a63/615a859c7ab23a526f225189/ruined_king.jpg?",
+                            "title": "ruined_king.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt3b981873fd7d9af2/615a8521c34d415711f7e1da/Ruined_King.svg?",
+                            "title": "Ruined_King.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Console"
+                        ]
+                    },
+                    {
+                        "title": "SONG OF NUNU",
+                        "link": "https://songofnunu.com/en-us/",
+                        "description": "A Song Lives Forever",
+                        "frame_color": "#4258A6",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltf9eb503252c8233e/6192ffed4ce2b23a1fb3c548/Everson_KeyArt01.jpg?",
+                            "title": "Everson_KeyArt01.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt3e9708c7299d2f5a/61af12f9a342a65863542661/songofnunu-logotype.png?",
+                            "title": "SoN_Logo_Trad_Chinese_v2.png",
+                            "content_type": "image/png"
+                        },
+                        "platform_availability": [
+                            "Windows",
+                            "Console"
+                        ]
+                    },
+                    {
+                        "title": "RIOT FORGE GAMES",
+                        "link": "https://riotforgegames.com/en-us/",
+                        "description": "PUBLISHER OF COMPLETABLE EXPERIENCES FROM THE LEAGUE UNIVERSE",
+                        "frame_color": "#304c40",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt8e6f343314f438ee/615d4fd6f2882661476b77da/Riot_Forge.jpg?",
+                            "title": "Riot_Forge.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt311c430e578b5709/615a85179c76234dd174c189/Riot_Forge.svg?",
+                            "title": "Riot_Forge.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": []
+                    }
+                ]
+            },
+            {
+                "title": "ESPORTS",
+                "products": [
+                    {
+                        "title": "LOL ESPORTS",
+                        "link": "https://lolesports.com/",
+                        "description": "",
+                        "frame_color": "#5abecd",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blta3add1f2553033a2/6424cbeb223f2f118c954ad5/033023_LoL_Esports_MegaMenu_Product_Card.jpg?",
+                            "title": "033023_LoL_Esports_MegaMenu_Product_Card.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt79e09e13810b1131/6424e722cc01de1087082bc5/033023_LoL_Logo_White.png?",
+                            "title": "033023_LoL_Logo_White.png",
+                            "content_type": "image/png"
+                        },
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "VALORANT ESPORTS",
+                        "link": "https://valorantesports.com/",
+                        "description": "",
+                        "frame_color": "#93221c",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt42e1162ed54d15d2/6424cbeb18bad210b77f86b7/033023_VCT_Esports_MegaMenu_Product_Card.jpg?",
+                            "title": "033023_VCT_Esports_MegaMenu_Product_Card.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt897524cd0f07ccbd/6424e722167b14113bedf6b8/033023_VCT23_Logo_White.png?",
+                            "title": "033023_VCT23_Logo_White.png",
+                            "content_type": "image/png"
+                        },
+                        "platform_availability": []
+                    }
+                ]
+            },
+            {
+                "title": "ENTERTAINMENT",
+                "products": [
+                    {
+                        "title": "ARCANE",
+                        "link": "https://arcane.com/en-us/",
+                        "description": "AN ANIMATED SERIES ON NETFLIX FROM THE WORLD OF LEAGUE OF LEGENDS",
+                        "frame_color": "#2b3d6d",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blta84d6d394801dedb/615a859d9c76234dd174c195/arcane.jpg?",
+                            "title": "arcane.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltd307b99a6713cbe9/615a8517a4d10c511f1ad399/arcane.svg?",
+                            "title": "arcane.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "UNIVERSE",
+                        "link": "https://universe.leagueoflegends.com/en_US/",
+                        "description": "THE DEFINITIVE SOURCE FOR THE WORLD OF LEAGUE OF LEGENDS",
+                        "frame_color": "#235357",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltea74e94e1296b057/615a8fccc22cd45706cf29fe/universe.jpg?",
+                            "title": "universe.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": null,
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "RIOT GAMES MUSIC",
+                        "link": "https://linktr.ee/riotgamesmusic",
+                        "description": "MUSIC HAS A NEW HOME",
+                        "frame_color": "#79317b",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt4303739f818a50e3/615a859d054fcd4c567205ab/Riot_Music.jpg?",
+                            "title": "Riot_Music.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": null,
+                        "platform_availability": []
+                    }
+                ]
+            },
+            {
+                "title": "BUSINESS",
+                "products": [
+                    {
+                        "title": "RIOT GAMES",
+                        "link": "https://www.riotgames.com/en/",
+                        "description": "UNLEASH PLAY",
+                        "frame_color": "#d4beb3",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltf2aeb4512fc8f095/615a859ddb34085ff954a028/Riot_Games.jpg?",
+                            "title": "Riot_Games.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltaa12e735bcd4f9a8/6217f2125fe07272a8a24985/RG-2022.svg?",
+                            "title": "RG-2022.svg",
+                            "content_type": "image/svg+xml"
+                        },
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "RIOT MERCH",
+                        "link": "https://merch.riotgames.com/en-us/",
+                        "description": "THE OFFICIAL HOME OF RIOT GAMES MERCH",
+                        "frame_color": "#003d5a",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt1313d1f5e9424233/615a859d7ab23a526f22518d/Riot_Merch.jpg?",
+                            "title": "Riot_Merch.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": null,
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "RIOT MOBILE",
+                        "link": "https://www.leagueoflegends.com/en-us/news/riot-games/hello-riot-mobile-farewell-league/",
+                        "description": "YOUR MOBILE COMPANION FOR ALL THINGS RIOT GAMES",
+                        "frame_color": "#fc3f43",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltb984b7fd7649c9b0/615a93758f1f7b5582148611/riot-mobile.jpg?",
+                            "title": "riot-mobile.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": null,
+                        "platform_availability": []
+                    },
+                    {
+                        "title": "RIOT SUPPORT",
+                        "link": "https://support.riotgames.com/hc/en-us/",
+                        "description": "FROM TECH TO TILT, WE’RE HERE TO HELP YOU",
+                        "frame_color": "#ea0028",
+                        "mobile_product_card": false,
+                        "asset": {
+                            "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltb67b232cf8d5069f/617b29d861f3c21067237706/riot-support-2.jpg?",
+                            "title": "riot-support-2.jpg",
+                            "content_type": "image/jpeg"
+                        },
+                        "logo": null,
+                        "platform_availability": []
+                    }
+                ]
+            }
+        ]
+    },
+    "pip_cache_key": "hyrs5vbiau7",
+    "alerts": [
+        {
+            "cache_key": "z0ipdzu3ch",
+            "tagline": "You’ve heard right - the new Standard and Eternal formats have come to Legends of Runeterra!",
+            "theme": {
+                "font_family": "beaufortforlol-italic",
+                "tagline_font_color": "#f1eebf",
+                "tagline_font_size": "18px",
+                "button_background_color": "#efe1a0",
+                "button_background_hover_color": "#efe1a0",
+                "button_font_color": "#26120b",
+                "button_font_hover_color": "#26120b"
+            },
+            "title": "Rotation is Here",
+            "buttons": [
+                {
+                    "interaction_id": "lor-rotation-release",
+                    "id": "lor-rotation-release",
+                    "text": "Rotation is Here",
+                    "href": "https://playruneterra.com/en-us/news/game-updates/rotation-is-here/"
+                }
+            ],
+            "matching_url_patterns": [
+                "playruneterra.com"
+            ],
+            "background_asset_desktop": {
+                "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt2e2cd308b63251d0/641cb8c6fac32d097fdfaaa6/Rotation_LoR-website-notification-banner_v4.jpg?",
+                "title": "Rotation_LoR-website-notification-banner_v4.jpg",
+                "content_type": "image/jpeg"
+            },
+            "background_asset_mobile": {
+                "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/bltcecb77d06247a2fe/641cddc2db18f61d68e9cb17/Rotation_LoR-website-notification-banner_v2-mobile.jpg?",
+                "title": "Rotation_LoR-website-notification-banner_v2-mobile.jpg",
+                "content_type": "image/jpeg"
+            },
+            "logo_asset": {
+                "url": "https://images.contentstack.io/v3/assets/blt0eb2a2986b796d29/blt8ba1ec1b0013e362/5ea53af4ae23d30cd1dfb3e4/lor-logo.png?auto=webp",
+                "title": "LOR-Logo-No-Faction-ENG-RGB.png",
+                "content_type": "image/png"
+            }
+        }
+    ]
+}

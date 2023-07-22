@@ -1,0 +1,1008 @@
+{
+  "id": "draven",
+  "name": "Draven",
+  "title": "the Glorious Executioner",
+  "locale": "en_us",
+  "champion": {
+    "type": "champion",
+    "release-date": "2012-06-06T00:00:00.000Z",
+    "name": "Draven",
+    "title": "the Glorious Executioner",
+    "section-title": "Draven",
+    "slug": "draven",
+    "associated-faction": "",
+    "associated-faction-slug": "noxus",
+    "image": {
+      "title": "draven-splash",
+      "subtitle": "",
+      "description": "",
+      "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt36ae14be635e9bdc/60ee0cbf4b5f90610731956a/Draven_0.jpg",
+      "encoding": "image/jpeg",
+      "width": 1215,
+      "height": 717,
+      "x": 1025,
+      "y": 100,
+      "featured-champions": []
+    },
+    "background": {
+      "title": "draven-splash",
+      "subtitle": "",
+      "description": "",
+      "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt36ae14be635e9bdc/60ee0cbf4b5f90610731956a/Draven_0.jpg",
+      "encoding": "image/jpeg",
+      "width": 1215,
+      "height": 717,
+      "x": 1025,
+      "y": 100,
+      "featured-champions": []
+    },
+    "url": "/en_us/champion/draven",
+    "video": {
+      "title": "draven-splashvideo-webm",
+      "subtitle": "",
+      "description": "",
+      "uri": "https://assets.contentstack.io/v3/assets/blt187521ff0727be24/bltc2909f6e7b7a6dbe/60ee0cc09b106723984be5a3/draven-splashvideo.webm",
+      "encoding": "video/webm",
+      "width": 1280,
+      "height": 720,
+      "x": 1025,
+      "y": 100,
+      "featured-champions": []
+    },
+    "races": [],
+    "roles": [
+      {
+        "name": "Marksman",
+        "slug": "marksman"
+      }
+    ],
+    "role": [
+      {
+        "name": "Marksman",
+        "slug": "marksman"
+      }
+    ],
+    "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/draven",
+    "biography": {
+      "full": "<p>Even as an orphan on the streets of Basilich, Draven was headstrong and full of bravado, frequently getting into vicious brawls with older street children and shady underworld thugs. While supremely confident in his own ability—some would say <i>overconfident</i>—it is unlikely he would have survived childhood had it not been for his older brother, Darius, who invariably finished the fights Draven started.</p><p>When Basilich fell to the warhosts of Noxus, the brothers came to the attention of a captain named Cyrus, after Draven made an ill-considered attempt on his life. Impressed with their fighting spirit, Cyrus allowed them to join the Noxian ranks.</p><p>For years, the brothers fought as part of Cyrus’ warhost—yet while Darius took to this life easily, Draven grew steadily more bored. His martial skill was beyond question, but the daily drudgery of soldiering felt like too much effort for too little reward… and not enough personal glory.</p><p>Darius inevitably rose to command his own warband, and Draven joined him. However, if he thought that would be easier, or a way to achieve greater individual recognition, he was sorely disappointed.</p><p>Some say Draven chose to leave Darius’ command. Some say he was forced out. Either way, his skills were highly sought after as a champion and duelist, and he was enticed to join a succession of warbands during the occupation of Ionia, before ending up with a fairly respectable contract in the Reckoning pits.</p><p>For centuries, the gladiatorial Reckoners had performed a vital role in Noxus—punishing criminals and settling disputes between the noble houses—and Draven was determined to receive the riches, adoration, and renown he felt he deserved. However, with long, protracted wars on many fronts, the spectacle was beginning to lose its appeal for the common citizen. As the attention of the crowds drifted, Draven fell into a slump, spending more and more time in the seedier drinking halls and gambling dens of the capital.</p><p>He was washed-up and broke when the former general Jericho Swain found him.</p><p>Swain had a plan to reclaim Noxus’ lost glory, and needed Draven’s help to achieve it. Perhaps Swain only enlisted him as a way to ensure his brother Darius’ support after the fact. Regardless, Draven proved integral to Swain’s plan—to depose the Grand General himself, Boram Darkwill.</p><p>Standing triumphant with Swain, Draven smiled for the first time in months as the cheers of the Noxian people washed over him.</p><p>But duty called. In the days and weeks following this unprecedented coup, many among the noble elite refused to honor Swain’s succession, so they were sentenced to death in the arena.</p><p>One condemned man escaped his handlers ahead of his execution. Operating on pure instinct—as was ever his wont—Draven leapt from the high balcony and hurled a pair of axes at the fleeing man, cutting him down in a heartbeat. After a moment of stunned silence, the crowd roared their approval. Draven retrieved his axes, spinning them high in the air, playing to his new fans, and savoring their rapturous applause.</p><p>Thus Draven became the Glorious Executioner, turning routine bouts into grand spectacles that drew ever larger crowds.</p><p>Soon enough, an enterprising (and diminutive) promoter, tired of paying to house, feed, and train Reckoners only for them to die in front of dwindling audiences, approached Draven with an idea. What if the drama of the classic pit fights could be combined with Draven’s natural showmanship?</p><p>The Reckoners quickly became entertainers as much as combatants, each with their own carefully constructed backstory, fighting style, and flamboyant personality. The fights were often bloody—this was still <i>Noxus</i> after all—but far less often ended in death. The rivalries, trash-talking, and intrigue between the best-known Reckoners became the stuff of legend throughout the empire, but none were talked about more than Draven.</p><p>For a time he lived the high life, receiving invitations to a never-ending stream of parties and banquets, mixing with the wealthy and influential of Swain’s new Noxus. He even reconciled with Darius, and would occasionally still march out with the warhosts, defeating enemy champions and generals in single combat.</p><p>Nevertheless, Draven has started to grow restless once again. He has all that he could have ever imagined, and more, but now dreams of the day when the whole <i>world</i> knows his name.</p>",
+      "short": "In Noxus, warriors known as reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, not to mention the spray of blood from each of his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more.",
+      "quote": "'' 'The best' is wherever I decide to set the bar each day.''",
+      "quote-author": "Draven"
+    },
+    "headerImage": null
+  },
+  "related-champions": [
+    {
+      "type": "champion",
+      "release-date": "2012-05-23T00:00:00.000Z",
+      "name": "Darius",
+      "title": "the Hand of Noxus",
+      "section-title": "Darius",
+      "slug": "darius",
+      "associated-faction": "",
+      "associated-faction-slug": "noxus",
+      "image": {
+        "title": "darius-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf982b9e4117d5cc2/60ee0c7d33819c6236259c0f/Darius_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 745,
+        "y": 0,
+        "featured-champions": []
+      },
+      "background": {
+        "title": "darius-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf982b9e4117d5cc2/60ee0c7d33819c6236259c0f/Darius_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 745,
+        "y": 0,
+        "featured-champions": []
+      },
+      "url": "/en_us/champion/darius",
+      "video": null,
+      "races": [],
+      "roles": [
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        },
+        {
+          "name": "Tank",
+          "slug": "tank"
+        }
+      ],
+      "role": [
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        },
+        {
+          "name": "Tank",
+          "slug": "tank"
+        }
+      ],
+      "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/darius",
+      "biography": {
+        "full": "<p>Darius and his brother Draven grew up as orphans in the port city of Basilich. Darius struggled to provide for them both, constantly fighting with gangs of older urchins and anyone else who threatened his little brother—even the city guard. Every day on the streets was a battle for survival, and Darius earned more scars by his twelfth summer than some soldiers do in a lifetime.</p><p>After Basilich was seized by the expanding Noxian empire, the victorious commander Cyrus saw the strength in these defiant brothers, and they found a home within the ranks of his warhost. Over the years, they fought in many grueling campaigns of conquest from one end of the known world to the other, as well as crushing a number of rebellions against the throne.</p><p>Within the empire, anyone could rise to power, no matter their birth, culture, or background, and none embraced this ideal more fervently than Darius. From humble beginnings, he rose steadily through the ranks, always putting duty before all else, and garnering great respect for his aggression, discipline, and refusal to ever take a backward step. On the bloodsoaked fields of Dalamor Plain, he even beheaded a Noxian general after the coward ordered a retreat. Roaring in defiance and hefting his bloodied axe overhead, Darius rallied the scattered warbands and won a great and unexpected victory against a far more numerous foe.</p><p>He was rewarded with a senior command of his own, attracting many thousands of eager recruits from across the empire. Darius turned the majority away, accepting only the strongest, the most disciplined and iron-willed. Such was his fearsome notoriety, even in the lands beyond Noxus, that it was not uncommon for entire cities to surrender at the first sight of his banners.</p><p>After a grinding victory against the cloud-fortresses of the Varju, a proud warrior people who had resisted decades of Noxian aggression, Darius was named the Hand of Noxus by Emperor Boram Darkwill himself. Those who knew Darius best knew he craved neither power nor adulation—he wished merely to see Noxus triumph over all—so Darkwill ordered him and his warhosts far north into the Freljord, to finally bring the barbarian tribes to heel.</p><p>The campaign dragged on for years, ending in a bitter, icy stalemate. Darius narrowly survived assassination attempts, ambushes, and even capture by the vicious Winter’s Claw. He was growing weary of endless wars of attrition, and returned to Noxus to demand a reconsolidation of the military.</p><p>He marched his veterans into the capital, only to find that the emperor was dead, killed in a coup led by Jericho Swain. The act had been supported by many allies, including Darius’s own brother, Draven.</p><p>This was a difficult position. As Hand, many of the noble houses would expect Darius to avenge Darkwill, but he had known and greatly respected the disgraced general Swain, and had spoken against his discharge after the botched offensive in Ionia some years earlier. The oaths of the Hand were to Noxus, not any particular ruler, and Swain was a man who spoke honestly of his new vision for the empire. Darius realized this was a leader he was prepared to follow... but Swain had other ideas.</p><p>With the establishment of the Trifarix, three individuals would rule Noxus together, each embodying one principle of strength: Vision, Might, and Guile. Darius gladly accepted his place on this council, and pledged to raise a new, elite force—the Trifarian Legion, the most loyal and prestigious warriors the empire could produce—and lead the armies of Noxus into a glorious new age of conquest.</p>",
+        "short": "There is no greater symbol of Noxian might than Darius, the nation’s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire’s enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy.",
+        "quote": "“History only remembers the victors. Stand with Noxus, and be remembered forever.”",
+        "quote-author": "Darius"
+      },
+      "headerImage": null
+    },
+    {
+      "type": "champion",
+      "release-date": "2010-10-05T00:00:00.000Z",
+      "name": "Swain",
+      "title": "the Noxian Grand General",
+      "section-title": "Swain",
+      "slug": "swain",
+      "associated-faction": "",
+      "associated-faction-slug": "noxus",
+      "image": {
+        "title": "swain-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7a9366b61b34f8a7/60ee129d66d52e63b8eb6bf1/swain-splash.jpg",
+        "encoding": "image/jpeg",
+        "width": 1920,
+        "height": 1133,
+        "x": 1458,
+        "y": 0,
+        "featured-champions": []
+      },
+      "background": {
+        "title": "swain-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7a9366b61b34f8a7/60ee129d66d52e63b8eb6bf1/swain-splash.jpg",
+        "encoding": "image/jpeg",
+        "width": 1920,
+        "height": 1133,
+        "x": 1458,
+        "y": 0,
+        "featured-champions": []
+      },
+      "url": "/en_us/champion/swain",
+      "video": null,
+      "races": [],
+      "roles": [
+        {
+          "name": "Mage",
+          "slug": "mage"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "role": [
+        {
+          "name": "Mage",
+          "slug": "mage"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/swain",
+      "biography": {
+        "full": "<p>Born into a patrician family, one of many to exist since the first walls were raised around Noxus, Jericho Swain seemed destined for a life of privilege. The noble houses had played a key role in Boram Darkwill’s rise to power, stoking rhetoric that their proud heritage was the nation’s greatest strength.</p><p>However, many hungered for greater influence, plotting against Darkwill in a secret cabal united by nothing more than the symbol of a black rose. Uncovering their intrigue, Swain personally executed the most prominent conspirators. Among them were his own parents, whose whispers of a “pale woman” had first alerted him of the danger to Noxus, which he valued more than house or kin. </p><p>They sought a power, a shapeless voice cackling in the darkness of the Immortal Bastion. <i>Something like a raven’s caw</i>…</p><p>For exposing the cabal, Swain was granted a commission in the Noxian army, far from anything he had ever known. There, he learned firsthand that the empire was not strong because of Noxians, as he had believed, but because of the way it could unite <i>all</i> men in spite of their origins. On the front lines, a foreign slave could be the equal of a highborn noble. </p><p>But still, Swain found only darkness in the wake of each battle. <i>Clouds of carrion crows</i>…</p><p>After securing the western borders, Swain’s own reputation was secured in Shurima, where his forces raised countless <i>noxtoraa</i> above the desert sands. Yet, in time, it became clear that greed was the sole purpose driving the empire forward. Fighting wars on too many fronts, lusting over magical relics, the aging Boram Darkwill was clearly growing unhinged.</p><p>When Noxus invaded Ionia, Darkwill began to move even more brazenly, retasking entire warbands to scour the land for anything rumored to extend a mortal lifespan. With Swain’s forces depleted, it became nearly impossible to engage the enemy. Finally, at the Battle of the Placidium, after luring the local militia into what should have been a trap, Swain’s warhost was overrun. His veterans were routed, and Swain was gravely wounded, his knee shattered, Ionian blades cleaving through his left arm.</p><p>As he lay on the verge of death, a raven approached to feed, and Swain felt an old, familiar darkness press upon him again. But he would not let it take him. He <i>could</i> not. Staring into the the bird’s eye, he saw reflections of the evil strangling the heart of Noxus. <i>A black rose. The pale woman... and her puppet emperor.</i> Swain realized that he had not defeated the hidden cabal, and they had betrayed him to what should have been his death, after seducing Darkwill, the man they failed to overthrow.</p><p>All this was glimpsed, not in the mind of a raven, but something <i>more</i>. The power his parents had been seeking, the demonic eyes blazing in the dark…</p><p>Cast out of the military for his “failure,” considered nothing more than a cripple, Swain set about uncovering what truly lay within the Immortal Bastion—an ancient entity, preying upon the dying and consuming their secrets, as it had attempted to consume his own. Swain stared into that darkness, seeing what even <i>it</i> could not: a way to wield it.</p><p>Though his meticulous preparations took many years, Swain and his remaining allies seized control of Noxus in a single night. Physically restored by the demon, he crushed Darkwill in full view of his followers, leaving the throne shattered and empty. </p><p>Swain’s vision for the future of Noxus is one of strength through unity. He has pulled back the warhosts from Darkwill’s unwinnable campaigns and, with the establishment of the Trifarix, ensured that no individual can rule unopposed. He embraces any who will pledge themselves to the empire—even the Black Rose, though he knows, in secret, they still plot against him.</p><p>Gathering knowledge as the demon did before him, Swain has foreseen far greater dangers lurking just beyond. However, many Noxians secretly wonder if the darkness they face will pale in comparison to the dark things Swain has done…</p><p>The sacrifices are only beginning, for the good of Noxus.</p>",
+        "short": "<p>Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new, demonic hand. Now, Swain commands from the front lines, marching against a coming darkness that only he can see—in glimpses gathered by shadowy ravens from the corpses all around him. In a swirl of sacrifice and secrets, the greatest secret of all is that the true enemy lies within.</p>",
+        "quote": "“I have learned enough to detest all men. Only nations may be revered.”",
+        "quote-author": "Swain"
+      },
+      "headerImage": null
+    }
+  ],
+  "explore-champions": [
+    {
+      "type": "champion",
+      "release-date": "2015-05-28T00:00:00.000Z",
+      "name": "Ekko",
+      "title": "the Boy Who Shattered Time",
+      "section-title": "Ekko",
+      "slug": "ekko",
+      "associated-faction": "",
+      "associated-faction-slug": "zaun",
+      "image": {
+        "title": "ekko-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt010cb09f412da7ab/60ee0cd412cadb2032d63ab3/Ekko_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 1061,
+        "y": 30,
+        "featured-champions": []
+      },
+      "background": {
+        "title": "ekko-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt010cb09f412da7ab/60ee0cd412cadb2032d63ab3/Ekko_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 1061,
+        "y": 30,
+        "featured-champions": []
+      },
+      "url": "/en_us/champion/ekko",
+      "video": {
+        "title": "ekko-splashvideo-webm",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://assets.contentstack.io/v3/assets/blt187521ff0727be24/blt620140a47e3a8d75/60ee0cd6c300f42b197f1c97/ekko-splashvideo.webm",
+        "encoding": "video/webm",
+        "width": 1280,
+        "height": 720,
+        "x": 1061,
+        "y": 30,
+        "featured-champions": []
+      },
+      "races": [],
+      "roles": [
+        {
+          "name": "Assassin",
+          "slug": "assassin"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "role": [
+        {
+          "name": "Assassin",
+          "slug": "assassin"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ekko",
+      "biography": {
+        "full": "<p>Born with genius-level intellect, Ekko constructed simple machines before he could crawl. His parents, Inna and Wyeth, vowed to provide a good future for their son—Zaun, with all its pollution and crime, would only stifle Ekko, whom they felt deserved the wealth and opportunities of Piltover. Throughout his youth he watched his parents age beyond their years, toiling for too many hours under dangerous conditions in suffocating factories. They earned meager wages while greedy factory owners, and sneering Piltovan buyers, profited immensely from their labor.</p>\n<p>It would all be worth it, they reasoned, if it meant their son could one day rise to the city above.</p>\n<p>Ekko saw things differently. Beyond Zaun’s flaws, he saw a dynamic place overflowing with energy and potential. Zaunites’ industry, resourcefulness, and resilience stirred a hotbed of pure innovation. They had built a thriving culture from catastrophe, and flourished where others would have perished. That spirit captivated Ekko, and spurred him to a youth of wild invention and innovation.</p>\n<p>He wasn’t alone. He befriended scrappy orphans, inquisitive runaways, and eager upstarts. Zaunites tended to eschew formal education in favor of apprenticeships, but these “Lost Children of Zaun” looked to the labyrinthine streets to be their mentor. They wasted time in glorious, youthful fashion—foot races through the border markets, or daring climbs from the Sump to the Promenade. They ran wild and free, answering to no one.</p>\n<p>One night, on a solo trek into the rubble of a recently demolished laboratory, Ekko made an astonishing find: a shard of blue-green crystal that glittered with magical energy. Every child of Zaun heard tales of <em>hextech</em>, said to power weapons and heroes alike. Such a thing had the potential to change the world, and now he held a broken one. He scrambled to find more pieces, but the crunching footfalls of teched-up enforcers told him he wasn’t the only one looking. Ekko barely escaped, and returned to his home.</p>\n<p>He experimented madly with the crystal. During one less-than-scientific attempt, the gem exploded into a vortex of shimmering dust, triggering eddies of temporal distortion. Ekko opened his eyes to see several splintered realities—and several “echo” versions of himself—staring back in sheer panic amid the fractured continua.</p>\n<p>He’d really done it this time.</p>\n<p>After some tense coordination between Ekko and his paradoxes, they managed to contain and repair the hole he had torn in the fabric of reality. Eventually, he harnessed the shattered crystal’s temporal powers into a device that would allow him to manipulate small increments of time… at least in theory.</p>\n<p>On his name day, his friends badgered him into climbing the ancient clocktower known as Old Hungry, so Ekko brought the untested device along with him.</p>\n<p>The Lost Children climbed, stopping occasionally to paint an obscene caricature or two of prominent Pilties. They were near the top when a handhold gave way, sending one of Ekko’s friends tumbling to certain doom. Instinctively—as if he’d done it a thousand times before—Ekko activated his device. The world shattered around him, and he was wrenched backward through swirling particles of time.</p>\n<p>Then Ekko was back, watching his friend reach again for the same rotting plank. The plank broke, the boy fell… but Ekko was ready this time, diving to the edge and grabbing him by the shirt. Ekko tried to swing him to safety, but his friend became caught in the tower’s clockwork gears, and—</p>\n<p>Stop. Rewind.</p>\n<p>Several attempts later, Ekko finally saved his friend’s life. But to his crew, Ekko’s supernatural reflexes had saved their friend before anyone even realized the danger. He told them about the crystal and made them swear to secrecy. Instead, they dared each other to new heights of foolishness, knowing Ekko had the means to pluck them out of danger.</p>\n<p>With each trial, and <em>so much</em> error, the time-warping device—which Ekko dubbed the Zero Drive—grew more and more stable. The only limit was how many do-overs his body could take before exhaustion set in.</p>\n<p>Ekko’s time-bending antics have made him a person of interest to some of Zaun and Piltover’s most inventive, most powerful, and most dangerous individuals. But his only interest is in his friends, his family, and his city. He dreams of the day when his hometown rises up to dwarf the so-called City of Progress, when Piltover’s golden veneer will be overshadowed by the towering ingenuity and relentless spunk of a Zaun born not from generations of privilege, but from sheer daring. He may not have a plan yet, but he’s got all the time in the world.</p>\n<p>After all, if Ekko’s Z-Drive can change the past, how hard can it be to change the future?</p>",
+        "short": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Z-Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this freedom, when there’s a threat to his friends, he’ll do anything to defend them. To outsiders, Ekko seems to achieve the impossible the first time, every time.",
+        "quote": "“My devices work best when they don’t work as intended… which is most of the time.”",
+        "quote-author": "Ekko"
+      },
+      "bioImage": null,
+      "headerImage": null
+    },
+    {
+      "type": "champion",
+      "release-date": "2012-10-26T00:00:00.000Z",
+      "name": "Elise",
+      "title": "the Spider Queen",
+      "section-title": "Elise",
+      "slug": "elise",
+      "associated-faction": "",
+      "associated-faction-slug": "shadow-isles",
+      "image": {
+        "title": "elise-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt941efa8bafc6e372/60ee0cdbb403be64e6627796/Elise_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 1007,
+        "y": 98,
+        "featured-champions": []
+      },
+      "background": {
+        "title": "elise-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt941efa8bafc6e372/60ee0cdbb403be64e6627796/Elise_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 1007,
+        "y": 98,
+        "featured-champions": []
+      },
+      "url": "/en_us/champion/elise",
+      "video": null,
+      "races": [],
+      "roles": [
+        {
+          "name": "Mage",
+          "slug": "mage"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "role": [
+        {
+          "name": "Mage",
+          "slug": "mage"
+        },
+        {
+          "name": "Fighter",
+          "slug": "fighter"
+        }
+      ],
+      "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/elise",
+      "biography": {
+        "full": "<p>The Lady Elise was born centuries ago to House Kythera, one of the oldest bloodlines of Noxus, and swiftly learned the power of beauty to influence the weak.</p><p>When she came of age, she entertained the courtship of Berholdt, heir to House Zaavan. Their union was opposed by many, since it would strengthen Kythera at Zaavan’s expense—but Elise worked hard to beguile her intended husband, and manipulated her detractors to secure a betrothal.</p><p>Unbeknown to her, this political marriage had been planned for many years by shadowy forces working behind the scenes throughout the empire, with Berholdt Zaavan a mere pawn in a much larger game. Even so, it was an unexpected twist that Elise should dominate him so completely, and while he remained the face of his house, it was clear who was in charge. As time passed, his resentment grew.</p><p>One evening, over a typically frosty dinner, Berholdt revealed he had poisoned her wine, and demanded Elise withdraw from society and allow him to take up the reins of power. Knowing he would have the antidote about his person, Elise played the role of a remorseful wife, weeping and begging her husband’s forgiveness. Just as it seemed he might be convinced, she snatched up a knife and plunged it into his heart.</p><p>Even with the antidote, Elise was bedridden for weeks… and it was then that the Pale Woman approached her.</p><p>The enigmatic mistress of “the Black Rose” spoke of a secret society where hidden knowledge and sorcery were shared among those who could be trusted, and kept from those who could not. In truth, the Pale Woman did not care who controlled each of the noble houses, as long as they were sworn to her. Since Elise had killed the thrall Berholdt, she would have to prove her own value, or a more suitable replacement would be found.</p><p>Seeing a path to greater power, Elise took to the cabal like few before her. She met often with the most prominent members, trading influence and thwarting her rivals in a complex web of tangled schemes. With the wealth of two houses, there were not many who could oppose her, and she became even more adept at <i>persuading</i> others to do her bidding.</p><p>Eventually, she learned of an object that held great significance for the Black Rose—the skull of an ancient warlord known as Sahn-Uzal, rumored to have been hidden long ago in the Shadow Isles. Keen to gain the Pale Woman’s favor, Elise found a desperate, debt-ridden captain willing to bear her and a handful of devotees to the cursed city of Helia. They came ashore on a beach of ashen sand, and were tormented by spiteful wraiths as they searched in vain for the lost vault.</p><p>But Elise found something she had not anticipated.</p><p>A creature of the long-forgotten past had made its home in the lightless depths beneath the city. This bloated, chitinous monster was the spider-god Vilemaw, and it erupted from the darkness to devour the intruders, before sinking its fangs into Elise’s shoulder. She fell, howling and convulsing as the venom wrought terrible changes upon her body. Her spine rippled with undulant motion, and arachnoid legs pushed out from her flesh.</p><p>Finally, breathless with the agony of transformation, Elise turned to find her new master looming above her. An unspoken understanding passed between them in that moment, and she scuttled back to the beach, untroubled by the Isles’ spirits as she weaved in and out of the twisted treeline.</p><p>Some weeks later, when her ship arrived back at the Noxian capital in the dead of night, Elise had regained her human form… though she was the only living thing left aboard.</p><p>Though no evidence was ever found of the warlord’s skull, the Pale Woman saw Elise’s dangerous new gift for what it was—a means to come and go safely between Noxus and the Shadow Isles. An accord was struck, wherein the Black Rose would provide Elise with endless unwitting sacrifices to offer up to the spider-god, and in return she would recover any artifacts of power she could from those benighted, forbidding shores.</p><p>Elise once again took up residence in the neglected halls of House Zaavan, carefully cultivating a reputation as a seductive yet unreachable recluse. Few have ever guessed her true nature, yet fanciful rumors abound—wild tales of her ageless beauty, and a terrifying, voracious creature said to lair in the bowels of her dilapidated, dust-wreathed palace.</p><p>Though centuries have passed, whenever Elise feels the summons of her god, she returns to the land of the Black Mist with a hapless suitor in tow, or some other easily swayed soul.</p><p>And none who accompany her ever return.</p>",
+        "short": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. She was once the mistress of a powerful noble house, until the bite of a vile spider-god transformed her into something utterly inhuman, yet still beautiful—an arachnoid creature, drawing unsuspecting prey into her web. Elise now feeds upon the naive and the faithless, and there are few who can resist her seductions.",
+        "quote": "“Beauty is power too, and can strike swifter than any sword.”",
+        "quote-author": "Elise"
+      },
+      "headerImage": null
+    }
+  ],
+  "modules": [
+    {
+      "slug": "new-dawn",
+      "type": "featured-video",
+      "section-title": "Cinematic",
+      "featured-image": {
+        "title": "featuredvideocover-new-dawn",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blteebf080253c3eca1/60ee0d3c83f3965f5b9868bc/new-dawn.jpg",
+        "encoding": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "x": 1229,
+        "y": 350,
+        "featured-champions": []
+      },
+      "title": "A New Dawn",
+      "subtitle": "",
+      "description": "Day breaks over a landscape consecrated by blood and steel. A battle begins as a new dawn rises.",
+      "uri": "https://www.youtube.com/watch?v=vzHrjOMfHPY",
+      "video": {
+        "type": "video",
+        "title": "",
+        "subtitle": "",
+        "description": [],
+        "uri": "https://www.youtube.com/watch?v=vzHrjOMfHPY",
+        "width": "",
+        "height": "",
+        "x": "",
+        "y": "",
+        "featured-champions": []
+      },
+      "blackout": null,
+      "release-date": "2014-07-22T15:00:00.000Z",
+      "video-type": "cinematic",
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ],
+      "related-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ]
+    },
+    {
+      "slug": "The Whispering Doodad",
+      "type": "story-preview",
+      "title": "The Whispering Doodad",
+      "subtitle": "By Graham McNeill",
+      "description": "Let me tell you about my glade.<br><br>",
+      "story-slug": "the-whispering-doodad",
+      "featured-image": {
+        "title": "doodad",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt22efa4152391c194/60ee0cb46610ed4d42bc21be/whispering_doodad.jpg",
+        "encoding": "image/jpeg",
+        "width": 0,
+        "height": 0,
+        "x": 0,
+        "y": 0,
+        "featured-champions": []
+      },
+      "background": {
+        "title": "doodad",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt22efa4152391c194/60ee0cb46610ed4d42bc21be/whispering_doodad.jpg",
+        "encoding": "image/jpeg",
+        "width": 0,
+        "height": 0,
+        "x": 0,
+        "y": 0,
+        "featured-champions": []
+      },
+      "release-date": "2019-05-14T15:00:00.000Z",
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ],
+      "minutes-to-read": 5,
+      "url": "/en_us/story/the-whispering-doodad"
+    },
+    {
+      "slug": "draven-image-gallery",
+      "type": "image-gallery",
+      "section-title": "",
+      "isFanArt": false,
+      "fan-art-url": "",
+      "featured-image": "",
+      "title": "",
+      "subtitle": "",
+      "assets": [
+        {
+          "title": "Draven concept art",
+          "subtitle": "",
+          "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltb892cd0c9b74f3d5/60ee0cbd83f3965f5b9868b2/draven_concept.jpg",
+          "encoding": "image/jpeg",
+          "width": 1853,
+          "height": 1080,
+          "x": 1504,
+          "y": 165,
+          "featured-champions": []
+        },
+        {
+          "title": "Draven weapon concept art",
+          "subtitle": "",
+          "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltff58af6aca653f1a/60ee0cc24cab5d36c003330c/draven_weapon_concept.jpg",
+          "encoding": "image/jpeg",
+          "width": 1920,
+          "height": 994,
+          "x": 11,
+          "y": 5,
+          "featured-champions": []
+        }
+      ],
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ]
+    },
+    {
+      "slug": "draven-artspotlight",
+      "type": "featured-video",
+      "section-title": "",
+      "featured-image": {
+        "title": "featuredvideocover-draven-artspotlight",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt28c090c1625871fc/60ee0d1f9b106723984be5a7/draven-artspotlight.png",
+        "encoding": "image/jpeg",
+        "width": 1680,
+        "height": 1076,
+        "x": 773,
+        "y": 315,
+        "featured-champions": []
+      },
+      "title": "Draven Art Spotlight",
+      "subtitle": "",
+      "description": "This high-speed rendition will show you that even the grisliest of jobs can be a real crowd-pleaser if you're Draven, the Glorious Executioner!",
+      "uri": "https://www.youtube.com/watch?v=-SmZYn81h6E",
+      "video": {
+        "type": "video",
+        "title": "",
+        "subtitle": "",
+        "description": [],
+        "uri": "https://www.youtube.com/watch?v=-SmZYn81h6E",
+        "width": "",
+        "height": "",
+        "x": "",
+        "y": "",
+        "featured-champions": []
+      },
+      "blackout": null,
+      "release-date": "2012-05-30T15:00:00.000Z",
+      "video-type": "art-spotlight",
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ],
+      "related-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ]
+    },
+    {
+      "slug": "draven-login",
+      "type": "featured-video",
+      "section-title": "",
+      "featured-image": {
+        "title": "draven-splash",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt36ae14be635e9bdc/60ee0cbf4b5f90610731956a/Draven_0.jpg",
+        "encoding": "image/jpeg",
+        "width": 1215,
+        "height": 717,
+        "x": 1025,
+        "y": 100,
+        "featured-champions": []
+      },
+      "title": "Draven: Login Theme",
+      "subtitle": "",
+      "description": "",
+      "uri": "https://www.youtube.com/watch?v=H1xHayXetLU",
+      "video": {
+        "type": "video",
+        "title": "",
+        "subtitle": "",
+        "description": [],
+        "uri": "https://www.youtube.com/watch?v=H1xHayXetLU",
+        "width": "",
+        "height": "",
+        "x": "",
+        "y": "",
+        "featured-champions": []
+      },
+      "blackout": null,
+      "release-date": "2012-06-06T15:00:00.000Z",
+      "video-type": "champ-login-music",
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ],
+      "related-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ]
+    },
+    {
+      "slug": "bts-new-dawn",
+      "type": "featured-video",
+      "section-title": "Cinematic Behind the Scenes",
+      "featured-image": {
+        "title": "featuredvideocover-bts-new-dawn",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt0d32c3b5c40d011e/60ee0d1960216d1db87a11d5/bts-new-dawn.png",
+        "encoding": "image/jpeg",
+        "width": 1911,
+        "height": 1079,
+        "x": 1495,
+        "y": 67,
+        "featured-champions": []
+      },
+      "title": "A New Dawn: BTS",
+      "subtitle": "",
+      "description": "Check out the behind-the-scenes video below for a look at how we tapped into character design, music, animation, and even classic Foley techniques to showcase some of your favorite champions slugging it out for blood, guts, and glory.",
+      "uri": "https://www.youtube.com/watch?v=Q40IfQbYlSw",
+      "video": {
+        "type": "video",
+        "title": "",
+        "subtitle": "",
+        "description": [],
+        "uri": "https://www.youtube.com/watch?v=Q40IfQbYlSw",
+        "width": "",
+        "height": "",
+        "x": "",
+        "y": "",
+        "featured-champions": []
+      },
+      "blackout": null,
+      "release-date": "2014-07-22T15:00:00.000Z",
+      "video-type": "behind-the-scenes",
+      "featured-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ],
+      "related-champions": [
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        },
+        {
+          "type": "champion",
+          "release-date": null,
+          "associated-faction": "",
+          "associated-faction-slug": "unaffiliated",
+          "video": null,
+          "biography": {},
+          "headerImage": null
+        }
+      ]
+    }
+  ]
+}
